@@ -1,0 +1,9 @@
+Write an AirCondition class which has a double type private instance variable named Temperature. 
+
+Write an Assignvalue and GetValue methods to set and get the value of Temperature. 
+
+To set the Temperature considers these conditions: 
+
+If, weather is warm, then Temperature is 18 or if the weather is Cold, then Temperature are 25.
+ 
+Call the methods from Main class.

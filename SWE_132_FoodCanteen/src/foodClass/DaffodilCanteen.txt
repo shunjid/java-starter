@@ -1,0 +1,20 @@
+Daffodil Canteen Needs A Software To Handle Their Calculations Systematically.
+You Need To Make A Program To Solve Their Problem.
+Make A CanteenClass Which Has Attributes Like Food Id, Food Name,Quantity,
+unitPrice, Selling Price.
+
+1. Make A Parameterized Constructor To Initialize The Attributes.
+
+2. Make A Method Which Takes NumberOfItem As A Parameter and Calulates The Bill.
+If A Customers Bill Is More Than 150 Taka He Gets Taka 10 As Discount.
+
+3. Make A Method Which Calculates The Remaining Food Amount After Every Sale.
+
+4. Finally Make A Method To Calculate The Remaining Profit.
+
+5. Create A Main Class , Instance Of CanteenClass . Call All The Methods But Keep In Mind That
+You Need To Sell Till The Quantity Doesn't Becomes Zero and Also You Can't Sell More Than 
+Remaining Quantity That Of A Customer Asks To Buy.
+
+6. When Quantity Becomes Zero Show The Total Profit.
+

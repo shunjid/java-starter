@@ -1,0 +1,16 @@
+"New Life Bank" wants you to make a System where Bank manager will register new users.
+While registration this information are mandatory : 
+User's Name, National ID Number, Address, Bank Account ID (Given by manager) ,Initial deposit amount.  
+
+(a) Take all this values using a parameterized constructor. 
+(b) Create a method to deposit amount in user's bank balance. 
+
+(c) Create another method to withdraw amount from user's account. 
+    Withdraw is allowed only if user have More than 100 taka in their balance 
+    & Current Balance is Greater than Withdraw amount.
+
+(d) Create another method to calculate monthly interest for users. If current balance is more than 100000 taka
+    Then user will get 2% interest of their current balance, Otherwise 1%. According Create another method
+    to create Yearly Interest.
+
+(e) Create object in Main Class & Call all the methods to display Information. You must take every attribute from the keyboard.

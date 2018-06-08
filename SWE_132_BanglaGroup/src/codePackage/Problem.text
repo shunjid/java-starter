@@ -1,0 +1,23 @@
+﻿Suppose, you have been given a task to develop a program for a company name “Bangla Group”. 
+
+In this company, there are two types of employee such as manager and stuff. 
+
+Each Employee has attributes like id, name and designation. 
+
+The salary structure of this company is, if the designation of employee is Manager, 
+then monthly salary is 20,000 taka 
+and for Stuff the salary is 10,000 taka. 
+
+
+Write a method which will set the monthly salary of each employee according to their designation.
+
+Write a method which will calculate yearly salary of each employee.
+
+Write a method will calculate the bonus of each employee. 
+20% bonus on salary for manager and 5% bonus on salary for stuff.
+
+Use a parameterized constructor to initialize the attributes of class.
+
+Write a method to display all information regarding to each employee. Create object from main class 
+and call all the methods. 
+

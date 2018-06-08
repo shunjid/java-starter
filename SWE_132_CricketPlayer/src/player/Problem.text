@@ -1,0 +1,17 @@
+﻿Mr. Miraz is a Cricketer of Bangladesh National Cricket Team. 
+He has property/attributes like Name, Age and total Prize money. 
+ He is paid 3000 dollar as prize money for playing a single match. 	 	
+
+•	Write a proper class with attributes and use constructor for initializing the attributes.
+
+•	Name and Age must be taken from user as input.
+
+•	Write a method that will calculate and return the total prize money of Mr. Miraz if he will play 10 matches.
+
+•	Write a method that will calculate bonus prize money for Mr. Miraz. 
+        The number of match that he plays is the parameter of the method. 
+        If Mr. Miraz plays more than 10 matches, then 1000 dollars bonus will be given to him.
+
+•       Create a Main class with main method and take input from the user in it 
+        and call all the methods created in the above class.   
+

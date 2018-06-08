@@ -1,0 +1,38 @@
+In Semester Break You are going to your village by Bus From Dhaka to Gazipur.
+
+Suppose you have started your journey from Kamalapur Railway Station.
+
+
+
+1. From Kamalapur to Gazipur 
+
+   
+(a) Total Distance is 
+       S = 36.5 km or, 36500 m
+
+   
+(b) Train's Acceleration is 
+       a = 0.0022 ms^-2
+
+   
+(c) Initial Velocity
+       u = 0.0 ms^-1
+
+   
+(d) Time Taken t (in seconds)
+
+
+You know the Equation, S = u*t + 0.5 a*t^2
+
+
+
+Make a Class name Journey. 
+
+Initialize Your Name, the Places name From/To, Distance , Train-Acceleration
+using Parameterized Constructor. 
+
+
+Make a method which will calculate total Time needed to Reach your Village in Minutes.
+
+Create object of Journey Class in Main Class Main Method & Call all the methods. 
+
